@@ -1,0 +1,1 @@
+var capricciosa = new Pizza("large", "thin", "tomato", new List<string> { "mozzarella", "italian ham", "mushrooms", "olives" });
